@@ -1,6 +1,6 @@
 # 💼 My Portfolio Website
 
-Hi! I’m [Your Name], a beginner backend developer.  
+Hi! I’m Prudence Oyando a beginner backend developer.  
 This is my personal portfolio site built for a school hackathon.
 
 ## 🔧 Built With
@@ -20,5 +20,5 @@ This is my personal portfolio site built for a school hackathon.
 - Combining frontend + backend (if you did that)
 
 ## 📫 Contact
-- GitHub: [yourusername](https://github.com/yourusername)
+- GitHub: [prudence 1738](https://github.com/prudence 1738
 - Email: your.email@example.com
