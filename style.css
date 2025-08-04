@@ -1,0 +1,63 @@
+/* Global Reset */
+* {
+  margin: 0;
+    padding: 0;
+      box-sizing: border-box;
+      }
+
+      body {
+        font-family: Arial, sans-serif;
+          line-height: 1.6;
+            background-color: white;
+              color: #333;
+              }
+
+              /* Header Section */
+              header {
+                background-color: orange;
+                  color: white;
+                    padding: 2rem;
+                      text-align: center;
+                      }
+
+                      header h1 {
+                        font-size: 2.5rem;
+                        }
+
+                        header nav ul {
+                          list-style: none;
+                            display: flex;
+                              justify-content: center;
+                                gap: 2rem;
+                                  margin-top: 1rem;
+                                  }
+
+                                  header nav a {
+                                    color: white;
+                                      text-decoration: none;
+                                        font-weight: bold;
+                                        }
+
+                                        /* Sections */
+                                        section {
+                                          padding: 2rem;
+                                            border-bottom: 1px solid #eee;
+                                            }
+
+                                            section h2 {
+                                              color: orange;
+                                                margin-bottom: 1rem;
+                                                }
+
+                                                ul {
+                                                  list-style: square inside;
+                                                  }
+
+                                                  /* Footer */
+                                                  footer {
+                                                    background-color: orange;
+                                                      color: white;
+                                                        text-align: center;
+                                                          padding: 1rem;
+                                                            margin-top: 2rem;
+                                                            }
